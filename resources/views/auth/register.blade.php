@@ -4,7 +4,7 @@
 
 {!! Form::open() !!}
 
-<h2>新規ユーザー登録</h2>
+<h2>新規ユーザー登録a</h2>
 
 {{ Form::label('ユーザー名') }}
 {{ Form::text('username',null,['class' => 'input']) }}
